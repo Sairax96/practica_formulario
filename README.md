@@ -1,2 +1,2 @@
 # practica_formulario
-ejemplo básico de un formulario de un 
+ejemplo básico de un formulario en HTML
